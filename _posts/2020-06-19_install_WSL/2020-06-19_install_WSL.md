@@ -18,7 +18,7 @@ It will let you use ssh via xshell or putty to login to the WSL when you start s
 
 if you can't start sshd use below command, then you need re-install the openssh-server.
 
-![img](C:\mywork\work\mydoc\Myblog\darmenliu.github.io\_posts\2020-06-19_install_WSL\efc3f63d7aa67feab1e2f295bd3310f5.png)
+![img](efc3f63d7aa67feab1e2f295bd3310f5.png)
 
 Use below command to re-install openssh-server
 
@@ -46,7 +46,7 @@ sudo /usr/sbin/sshd -d
 
 After start sshd successfully, you could use xshell or putty to login to WSL via localhost.
 
-![image-20200619173452001](C:\mywork\work\mydoc\Myblog\darmenliu.github.io\_posts\2020-06-19_install_WSL\image-20200619173452001.png)
+![image-20200619173452001](image-20200619173452001.png)
 
 ## some issues
 
