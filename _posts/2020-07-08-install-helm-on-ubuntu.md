@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Use ssh for WSL on windows 10"
+title: "install helm on ubuntu virtual machine"
 author: "Yongqiang Liu"
 ---
 

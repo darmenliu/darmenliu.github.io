@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Use ssh for WSL on windows 10"
+title: "install kubernetes on ubuntu virtual machine as a single node cluster"
 author: "Yongqiang Liu"
 ---
 
