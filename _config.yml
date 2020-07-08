@@ -1,7 +1,8 @@
 # Site settings
-title:          Yongqiang Liu's blog
+title:          Yongqiang Liu
 description:    "Minimal Jekyll theme for storytellers"
-url:            "https://darmenliu.github.io"
+baseurl:        ""
+url:            "https://darmenliu.github.io/"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
@@ -9,7 +10,7 @@ google_analytics: UA—XXXXXXXX-X
 # Author
 author:
   name:         Yongqiang Liu
-  url:          https://darmenliu.github.io
+  url:          https://darmenliu.github.io/
   email:        lyq501@163.com
 
 # Build settings
