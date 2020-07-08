@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Use ssh for WSL on windows 10"
+author: "Yongqiang Liu"
+---
+
+
 # Use ssh for WSL on windows 10
 
 ## What is WSL？
@@ -18,7 +25,7 @@ It will let you use ssh via xshell or putty to login to the WSL when you start s
 
 if you can't start sshd use below command, then you need re-install the openssh-server.
 
-![img](efc3f63d7aa67feab1e2f295bd3310f5.png)
+![img](2020-06-19-install-WSL-1.png)
 
 Use below command to re-install openssh-server
 
@@ -46,7 +53,7 @@ sudo /usr/sbin/sshd -d
 
 After start sshd successfully, you could use xshell or putty to login to WSL via localhost.
 
-![image-20200619173452001](image-20200619173452001.png)
+![](2020-06-19-install-WSL-2.png)
 
 ## some issues
 
